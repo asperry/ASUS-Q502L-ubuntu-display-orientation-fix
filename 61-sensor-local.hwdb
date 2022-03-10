@@ -1,0 +1,2 @@
+sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:*pnQ502LAB*
+  ACCEL_MOUNT_MATRIX=0, 1, 0; -1, 0, 0; 0, 0, 1
